@@ -7,6 +7,6 @@ ilgili kullanıcının verilerini çekmek olmalı.
 İsteği yaparken aşağıdaki endpointin sonundaki rakamı parametrede gelen user id'ile 
 değiştirmeniz gerekiyor.
 (https://jsonplaceholder.typicode.com/users/1)
--  Yine aynı fonksiyonun içerisinde ve yine aynı user id için bir de "posts" isteği yapılmalıdır.İsteği yaparken aşağıdaki endpoint'in sonundaki rakamı parametrede gelen user id'ile değiştirmeniz gerekiyor.
-
-(https://jsonplaceholder.typicode.com/posts?userId=1)
+-  Yine aynı fonksiyonun içerisinde ve yine aynı user id için bir de "posts" isteği yapılmalıdır.İsteği yaparken aşağıdaki endpoint'in sonundaki rakamı parametrede gelen user id'ile değiştirmeniz gerekiyor.(https://jsonplaceholder.typicode.com/posts?userId=1)
+-  *app.js* dosyasına yazmış olduğunuz "getData" isimli fonksiyonu "import" edin.
+-  Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
