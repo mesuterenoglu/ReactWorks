@@ -1,4 +1,4 @@
-# Bu projede aşağıdaki yönlendirmelere göre hazırlanmıştır;
+# Bu proje aşağıdaki yönlendirmelere göre hazırlanmıştır;
 
 -  Bu fonksiyon **"async"** olarak tanımlanmalı ve default olarak dışa aktarılmalıdır. 
 Fonksiyonun içindeki asenkron fonksiyonlar **"await"** ile tanımlanmalıdır.
