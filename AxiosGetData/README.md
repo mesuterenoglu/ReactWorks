@@ -1,3 +1,5 @@
+# Bu projede aşağıdaki yönlendirmelere göre hazırlanmıştır;
+
 -  Bu fonksiyon **"async"** olarak tanımlanmalı ve default olarak dışa aktarılmalıdır. 
 Fonksiyonun içindeki asenkron fonksiyonlar **"await"** ile tanımlanmalıdır.
 -  Fonksiyon **Number** tipinde tek parametre alır. Bu parametre **user id**'yi belirtir.
