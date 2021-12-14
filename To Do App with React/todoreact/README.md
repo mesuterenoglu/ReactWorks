@@ -1,12 +1,12 @@
 # ToDo App with React
 
-- Bu uygulama react ve bootstrap kullanırak programlanmıştır. Aşağıdaki işlemler için örnekler bulabilirsiniz. 
+- Bu uygulama react ve bootstrap kullanılarak programlanmıştır. Aşağıdaki işlemler için örnekler bulabilirsiniz. 
     * Component oluşturma 
     * State tanımlama ve güncelleme 
     * useEffect kullanımı 
     * callback functions 
     * inputtan veri alma ve güncelleme
-    * Checkbox'tan veri alma ve güncelleme
+    * Checkboxtan veri alma ve güncelleme
     * Form submit metodu kullanımı
     * Button kullanımı
 
